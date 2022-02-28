@@ -1,0 +1,12 @@
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\bin\Debug\net6.0\AuthorizeTest.Shared.deps.json
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\bin\Debug\net6.0\AuthorizeTest.Shared.dll
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\bin\Debug\net6.0\ref\AuthorizeTest.Shared.dll
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\bin\Debug\net6.0\AuthorizeTest.Shared.pdb
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\obj\Debug\net6.0\AuthorizeTest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\obj\Debug\net6.0\AuthorizeTest.Shared.AssemblyInfoInputs.cache
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\obj\Debug\net6.0\AuthorizeTest.Shared.AssemblyInfo.cs
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\obj\Debug\net6.0\AuthorizeTest.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\obj\Debug\net6.0\AuthorizeTest.Shared.dll
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\obj\Debug\net6.0\ref\AuthorizeTest.Shared.dll
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\obj\Debug\net6.0\AuthorizeTest.Shared.pdb
+C:\Users\Hamid Reza\source\repos\AuthorizeTest\AuthorizeTest.Shared\obj\Debug\net6.0\AuthorizeTest.Shared.csproj.AssemblyReference.cache

@@ -1,0 +1,394 @@
+﻿++Solution 'AuthorizeTest' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:AuthorizeTest.sln
+++AuthorizeTest.API
+i:{00000000-0000-0000-0000-000000000000}:AuthorizeTest.API
+++Connected Services 
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:>2677
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:>2675
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:>2676
+++Dependencies
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:>2673
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:>1511
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:>2672
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:>2674
+++Properties
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\properties\
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\properties\
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\properties\
+++Authorization
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\authorization\
+++Controllers
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\controllers\
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\controllers\
+++Entities
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\entities\
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\entities\
+++Helpers
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\helpers\
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\helpers\
+++Models
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\models\
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\models\
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\models\
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\models\
+++Services
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\services\
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\services\
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\services\
+++appsettings.json
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\appsettings.json
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\appsettings.json
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\appsettings.json
+++omnisharp.json
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\omnisharp.json
+++Program.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\program.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\program.cs
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\program.cs
+++WeatherForecast.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\weatherforecast.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\weatherforecast.cs
+++No service dependencies discovered
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:>2678
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:>2679
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:>2680
+++Analyzers
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:analyzers
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:analyzers
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:analyzers
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:analyzers
+++Frameworks
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:frameworks
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:frameworks
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:frameworks
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:frameworks
+++Packages
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:packages
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:packages
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:packages
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:packages
+++Projects
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:projects
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:projects
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:projects
+++launchSettings.json
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\properties\launchsettings.json
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\properties\launchsettings.json
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\properties\launchsettings.json
+++AuthorizeAttribute.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\authorization\authorizeattribute.cs
+++JwtMiddleware.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\authorization\jwtmiddleware.cs
+++JwtUtils.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\authorization\jwtutils.cs
+++UsersController.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\controllers\userscontroller.cs
+++WeatherForecastController.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\controllers\weatherforecastcontroller.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\controllers\weatherforecastcontroller.cs
+++RefreshToken.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\entities\refreshtoken.cs
+++User.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\entities\user.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\entities\user.cs
+++AppException.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\helpers\appexception.cs
+++AppSettings.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\helpers\appsettings.cs
+++DataContext.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\helpers\datacontext.cs
+++ErrorHandlerMiddleware.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\helpers\errorhandlermiddleware.cs
+++Users
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\models\users\
+++UserService.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\services\userservice.cs
+++appsettings.Development.json
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\appsettings.development.json
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\.nuget\packages\microsoft.aspnetcore.components.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\microsoft.aspnetcore.app
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\microsoft.netcore.app
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\microsoft.netcore.app
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\microsoft.netcore.app
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\microsoft.netcore.app
+++BCrypt.Net-Next (4.0.2)
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:>2756
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.2)
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:>2757
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:>2694
+++Microsoft.EntityFrameworkCore.InMemory (6.0.2)
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:>2758
+++System.IdentityModel.Tokens.Jwt (6.16.0)
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:>2755
+++AuthorizeTest.Shared
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\bin\debug\net6.0\authorizetest.shared.dll
+i:{00000000-0000-0000-0000-000000000000}:AuthorizeTest.Shared
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\authorizetest.shared.csproj
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\bin\debug\net6.0\authorizetest.shared.dll
+++AuthenticateRequest.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\models\users\authenticaterequest.cs
+++AuthenticateResponse.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\models\users\authenticateresponse.cs
+++RevokeTokenRequest.cs
+i:{566797b0-aa98-47a3-9db1-c01ca384e456}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.api\models\users\revoketokenrequest.cs
+++Enums
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\enums\
+++RolesEnum.cs
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\enums\rolesenum.cs
+++AuthenticationResponseDTO.cs
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\models\authenticationresponsedto.cs
+++ConstantKeys.cs
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\models\constantkeys.cs
+++JWTTokenDTO.cs
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\models\jwttokendto.cs
+++UserDTO.cs
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\models\userdto.cs
+++Utils
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\utils\
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\utils\
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\utils\
+++PolicyTypes.cs
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\utils\policytypes.cs
+++PublicExtensions.cs
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.shared\utils\publicextensions.cs
+++Microsoft.AspNetCore.Authorization (6.0.2)
+i:{19d2d4a9-fc22-40d8-bdec-8502b061fd90}:>2708
+++AuthorizeTest.dntipsAPI
+i:{00000000-0000-0000-0000-000000000000}:AuthorizeTest.dntipsAPI
+++wwwroot
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\wwwroot\
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\
+++app_data
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\wwwroot\app_data\
+++ASPNETCore50JwtAuthDB.mdf
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\wwwroot\app_data\aspnetcore50jwtauthdb.mdf
+++ASPNETCore50JwtAuthDB_log.ldf
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\wwwroot\app_data\aspnetcore50jwtauthdb_log.ldf
+++Context
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\context\
+++ApplicationDbContext.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\context\applicationdbcontext.cs
+++ApplicationDbContextFactory.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\context\applicationdbcontextfactory.cs
+++IUnitOfWork.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\context\iunitofwork.cs
+++AccountController.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\controllers\accountcontroller.cs
+++ApiSettingsController.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\controllers\apisettingscontroller.cs
+++MyProtectedController.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\controllers\myprotectedcontroller.cs
+++UserRole.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\entities\userrole.cs
+++UserToken.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\entities\usertoken.cs
+++Migrations
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\migrations\
+++20220224225928_CreateDb.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\migrations\20220224225928_createdb.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\migrations\applicationdbcontextmodelsnapshot.cs
+++ApiSettings.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\models\apisettings.cs
+++BearerTokensOptions.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\models\bearertokensoptions.cs
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\models\bearertokensoptions.cs
+++ChangePasswordViewModel.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\models\changepasswordviewmodel.cs
+++JwtTokensData.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\models\jwttokensdata.cs
+++AntiForgeryCookieService.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\services\antiforgerycookieservice.cs
+++DbInitializerService.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\services\dbinitializerservice.cs
+++RolesService.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\services\rolesservice.cs
+++SecurityService.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\services\securityservice.cs
+++TokenFactoryService.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\services\tokenfactoryservice.cs
+++TokenStoreService.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\services\tokenstoreservice.cs
+++TokenValidatorService.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\services\tokenvalidatorservice.cs
+++UsersService.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\services\usersservice.cs
+++ConfigureServicesExtensions.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\utils\configureservicesextensions.cs
+++GuardExtensions.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\utils\guardextensions.cs
+++ServerPath.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\utils\serverpath.cs
+++20220224225928_CreateDb.Designer.cs
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.dntipsapi\migrations\20220224225928_createdb.designer.cs
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:>2691
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:>2692
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:>2695
+++Swashbuckle.AspNetCore (6.2.3)
+i:{fb91ced7-1dfa-4681-9192-4a9974c82c9e}:>2693
+++AuthorizeTest.Admin
+i:{00000000-0000-0000-0000-000000000000}:AuthorizeTest.Admin
+++css
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\font\css\
+++sample-data
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\sample-data\
+++favicon.ico
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\favicon.ico
+++icon-192.png
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\icon-192.png
+++index.html
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\index.html
+++Pages
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\pages\
+++Authentication
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\pages\authentication\
+++Login.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\pages\authentication\login.razor
+++Logout.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\pages\authentication\logout.razor
+++RedirectToLogin.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\pages\authentication\redirecttologin.razor
+++Registration.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\pages\authentication\registration.razor
+++UnAuthorized.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\pages\authentication\unauthorized.razor
+++Counter.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\pages\counter.razor
+++FetchData.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\pages\fetchdata.razor
+++Index.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\pages\index.razor
+++AuthStateProvider.cs
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\services\authstateprovider.cs
+++ClientAuthenticationService.cs
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\services\clientauthenticationservice.cs
+++ClientHttpInterceptorService.cs
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\services\clienthttpinterceptorservice.cs
+++HttpService.cs
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\services\httpservice.cs
+++LocalStorageService.cs
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\services\localstorageservice.cs
+++Shared
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\shared\
+++MainLayout.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\shared\mainlayout.razor
+++NavMenu.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\shared\navmenu.razor
+++SurveyPrompt.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\shared\surveyprompt.razor
+++_Imports.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\_imports.razor
+++App.razor
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\app.razor
+++bootstrap
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\bootstrap\
+++open-iconic
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\
+++app.css
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\app.css
+++weather.json
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\sample-data\weather.json
+++AuthenticationDTO.cs
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\models\authenticationdto.cs
+++RegistrationResponseDTO.cs
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\models\registrationresponsedto.cs
+++UserRequestDTO.cs
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\models\userrequestdto.cs
+++MainLayout.razor.css
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\shared\navmenu.razor.css
+++JwtParser.cs
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\utils\jwtparser.cs
+++ILLink.CodeFixProvider
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\illink.codefixprovider.dll
+++ILLink.RoslynAnalyzer
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\illink.roslynanalyzer.dll
+++Microsoft.AspNetCore.Components.Authorization (6.0.2)
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:>2736
+++Microsoft.AspNetCore.Components.WebAssembly (6.0.1)
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:>2733
+++Microsoft.AspNetCore.Components.WebAssembly.DevServer (6.0.1)
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:>2735
+++Microsoft.Extensions.Http (6.0.0)
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:>2734
+++bootstrap.min.css
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\bootstrap\bootstrap.min.css
+++font
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\readme.md
+++bootstrap.min.css.map
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\bootstrap\bootstrap.min.css.map
+++fonts
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\font\fonts\
+++open-iconic-bootstrap.min.css
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{9024d16b-4874-4b0c-936c-da9aaee50b26}:c:\users\hamid reza\source\repos\authorizetest\authorizetest.admin\wwwroot\css\open-iconic\font\fonts\open-iconic.woff

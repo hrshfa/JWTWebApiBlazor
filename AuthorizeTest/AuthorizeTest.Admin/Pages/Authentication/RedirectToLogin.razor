@@ -1,0 +1,47 @@
+﻿@using System.Security.Claims
+
+@inject NavigationManager NavigationManager
+
+if(AuthState is not null)
+{
+    <div class="alert alert-danger">
+        <p>You [@AuthState.User.Identity.Name] do not have access to the requested page</p>
+        <div>
+            Your roles:
+            <ul>
+            @foreach (var claim in AuthState.User.Claims.Where(c => c.Type == ClaimTypes.Role))
+            {
+                <li>@claim.Value</li>
+            }
+            </ul>
+        </div>
+    </div>
+}
+
+@code
+{
+    [CascadingParameter]
+    private Task<AuthenticationState> AuthenticationState {set; get;}
+
+    AuthenticationState AuthState;
+
+    protected override async Task OnInitializedAsync()
+    {
+        AuthState = await AuthenticationState;
+        if (!IsAuthenticated(AuthState))
+        {
+            var returnUrl = NavigationManager.ToBaseRelativePath(NavigationManager.Uri);
+            if (string.IsNullOrEmpty(returnUrl))
+            {
+                NavigationManager.NavigateTo("login");
+            }
+            else
+            {
+                NavigationManager.NavigateTo($"login?returnUrl={Uri.EscapeDataString(returnUrl)}");
+            }
+        }
+    }
+
+    private bool IsAuthenticated(AuthenticationState authState) =>
+            authState?.User?.Identity is not null && authState.User.Identity.IsAuthenticated;
+}

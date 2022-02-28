@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9024d16b-4874-4b0c-936c-da9aaee50b26": {
+      "ProjectGuid": "9024d16b-4874-4b0c-936c-da9aaee50b26",
+      "DisplayName": "AuthorizeTest.Admin",
+      "ColorIndex": 0
+    },
+    "566797b0-aa98-47a3-9db1-c01ca384e456": {
+      "ProjectGuid": "566797b0-aa98-47a3-9db1-c01ca384e456",
+      "DisplayName": "AuthorizeTest.API",
+      "ColorIndex": 1
+    },
+    "19d2d4a9-fc22-40d8-bdec-8502b061fd90": {
+      "ProjectGuid": "19d2d4a9-fc22-40d8-bdec-8502b061fd90",
+      "DisplayName": "AuthorizeTest.Shared",
+      "ColorIndex": 2
+    },
+    "fb91ced7-1dfa-4681-9192-4a9974c82c9e": {
+      "ProjectGuid": "fb91ced7-1dfa-4681-9192-4a9974c82c9e",
+      "DisplayName": "AuthorizeTest.dntipsAPI",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
