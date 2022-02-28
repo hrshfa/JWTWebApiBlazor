@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B+hsaeyZ0Tc/knRa2T+xQZ0jCjvf31Z8AKYNusC24Rt8vAW9h/agdlYlCK7VYSLQcfoy2yI0QFOR8drICte4lQ==",
+  "dgSpecHash": "XETKb6gJRhPT586cqiK9+gmqceyITfaUYZ/ioy6AqEqsWmNuKDD197e39/QAN0bPvwcwfkFsphBOVlAVa7AuUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hamid Reza\\source\\repos\\AuthorizeTest\\AuthorizeTest.dntipsAPI\\AuthorizeTest.dntipsAPI.csproj",
+  "projectFilePath": "C:\\Users\\Hamid Reza\\Documents\\GitHub\\AuthorizeTest\\AuthorizeTest.dntipsAPI\\AuthorizeTest.dntipsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hamid Reza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hamid Reza\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.2\\microsoft.aspnetcore.authentication.jwtbearer.6.0.2.nupkg.sha512",

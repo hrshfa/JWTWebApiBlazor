@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hamid Reza\\source\\repos\\AuthorizeTest\\AuthorizeTest.Shared\\AuthorizeTest.Shared.csproj": {}
+    "C:\\Users\\Hamid Reza\\Documents\\GitHub\\AuthorizeTest\\AuthorizeTest.Shared\\AuthorizeTest.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hamid Reza\\source\\repos\\AuthorizeTest\\AuthorizeTest.Shared\\AuthorizeTest.Shared.csproj": {
+    "C:\\Users\\Hamid Reza\\Documents\\GitHub\\AuthorizeTest\\AuthorizeTest.Shared\\AuthorizeTest.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hamid Reza\\source\\repos\\AuthorizeTest\\AuthorizeTest.Shared\\AuthorizeTest.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Hamid Reza\\Documents\\GitHub\\AuthorizeTest\\AuthorizeTest.Shared\\AuthorizeTest.Shared.csproj",
         "projectName": "AuthorizeTest.Shared",
-        "projectPath": "C:\\Users\\Hamid Reza\\source\\repos\\AuthorizeTest\\AuthorizeTest.Shared\\AuthorizeTest.Shared.csproj",
+        "projectPath": "C:\\Users\\Hamid Reza\\Documents\\GitHub\\AuthorizeTest\\AuthorizeTest.Shared\\AuthorizeTest.Shared.csproj",
         "packagesPath": "C:\\Users\\Hamid Reza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hamid Reza\\source\\repos\\AuthorizeTest\\AuthorizeTest.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Hamid Reza\\Documents\\GitHub\\AuthorizeTest\\AuthorizeTest.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

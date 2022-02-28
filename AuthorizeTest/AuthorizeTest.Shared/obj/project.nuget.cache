@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AKSMHwpw5flmGPHVsPW+5UqxMq4VoC695AcHdyITizUjOIGcg8ZoJYqXGAeP5H9zEmzrdAfZDET9GGwdUvrW9Q==",
+  "dgSpecHash": "2hVWndLbDOVe7uXXsinYRszTKJorT+uR5jxiijdsl8zt07dvEjOGt6+C2PDcATLlnZPYKQRKBYjtS0J1aofCyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hamid Reza\\source\\repos\\AuthorizeTest\\AuthorizeTest.Shared\\AuthorizeTest.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Hamid Reza\\Documents\\GitHub\\AuthorizeTest\\AuthorizeTest.Shared\\AuthorizeTest.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hamid Reza\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.2\\microsoft.aspnetcore.authorization.6.0.2.nupkg.sha512",
     "C:\\Users\\Hamid Reza\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.2\\microsoft.aspnetcore.metadata.6.0.2.nupkg.sha512",
